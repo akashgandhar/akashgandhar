@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/791976288877019146) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashgandhar0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-gandhar-88741124b) 
 
-#Website: akashgandhar.vercel.app
+#Website: https://akashgandhar.vercel.app
 
 
 # 💻 Tech Stack:
